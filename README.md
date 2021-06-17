@@ -1,0 +1,2 @@
+- visual basic dev
+- not very good at coding
