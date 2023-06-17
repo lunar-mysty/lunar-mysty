@@ -1,2 +1,2 @@
-- visual basic dev
+- python, javascript, html, css, c# and lua dev
 - not very good at coding
