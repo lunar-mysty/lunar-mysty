@@ -1,2 +1,2 @@
-- python, javascript, html, css, c# and lua dev
+- python, javascript, swift, html, css, c# and lua dev
 - not very good at coding
